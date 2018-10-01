@@ -1,0 +1,105 @@
+GED
+
+	Undo Commands
+	     1.	Properties
+	     2.	Properties
+	     3.	Copy
+	     4.	Move
+	     5.	Rotate 90
+	     6.	Insert Symbol
+	     7.	Insert Node
+	     8.	Insert Node
+	     9.	Insert Node
+	    10.	Resize
+	    11.	Properties
+	    12.	Properties
+	    13.	Properties
+	    14.	Properties
+	    15.	Properties
+	    16.	Properties
+	    17.	Properties
+	    18.	Properties
+	    19.	Properties
+	    20.	Properties
+	    21.	Properties
+	    22.	Properties
+	    23.	Properties
+	    24.	Properties
+	    25.	Move
+	    26.	Properties
+	    27.	Properties
+	    28.	Properties
+	    29.	Properties
+	    30.	Properties
+	    31.	Properties
+	    32.	Resize
+	    33.	Resize
+	    34.	Resize
+	    35.	Resize
+	    36.	Resize
+	    37.	Move
+	    38.	Move
+	    39.	Insert Bus
+	    40.	Move
+	    41.	Resize
+	    42.	Resize
+	    43.	Move
+	    44.	Resize
+	    45.	Resize
+	    46.	Resize
+	    47.	Resize
+	    48.	Resize
+	    49.	Resize
+	    50.	Paste
+	    51.	Move
+	    52.	Insert Symbol
+	    53.	Properties
+	    54.	Properties
+	    55.	Properties
+	    56.	Properties
+	    57.	Properties
+	    58.	Properties
+	    59.	Properties
+	    60.	Properties
+	    61.	Properties
+	    62.	Properties
+	    63.	Properties
+	    64.	Properties
+	    65.	Properties
+	    66.	Properties
+	    67.	Move
+	    68.	Flip Horizontal
+	    69.	Move
+	    70.	Paste
+	    71.	Properties
+	    72.	Move
+	    73.	Move
+	    74.	Insert Symbol
+	    75.	Properties
+	    76.	Properties
+	    77.	Properties
+	    78.	Properties
+	    79.	Properties
+	    80.	Insert Node
+	    81.	Insert Symbol
+	    82.	Insert Node
+	    83.	Move
+	    84.	Move
+	    85.	Move
+	    86.	Move
+	    87.	Insert Node
+	    88.	Insert Node
+	    89.	Insert Node
+	    90.	Insert Bus
+	    91.	Properties
+	    92.	Properties
+	    93.	Properties
+	    94.	Properties
+	    95.	Properties
+	    96.	Properties
+	    97.	Properties
+	    98.	Properties
+	    99.	Properties
+	   100.	Properties
+
+
